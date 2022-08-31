@@ -1,7 +1,8 @@
 ### Hello 👋 I'm Alvar
-- 🔭 I’m currently working on developing accounting and internal control programs for Kommunresurs as a fullstack developer in Sweden. Remote.
-- 🌱 I’m currently focusing my free time to master Rust, Go and Algorithms.
-- ⚡ Self taught
+- ⚡ Self taught fullstack developer
+- 🔭 I’m currently working on developing accounting and internal control programs with <a href="https://www.kommunresurs.se/">Kommunresurs</a> designed for businesses.
+- 🌱 I’m currently focusing my free time to master Rust, Go and Algorithms
+
 
 <h2>Tech I'm passionate about</h2>
 <div>
