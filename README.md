@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Alvar
 - ⚡ Self taught fullstack developer working with Typescript.
 - 🔭 Currently working at <a href="https://www.kommunresurs.se/">Kommunresurs</a> developing accounting and internal control applications designed for businesses, counties & banks.
-- 🌱 I'm on my freetime mostly experimenting with new tech and focusing on mastering the never ending space of algorithms and learning rust & go.
+- 🌱 I'm on my freetime mostly experimenting with new tech, focusing on mastering the never ending space of algorithms or learning rust & go.
 
 
 <h2>Tech I'm passionate about</h2>
