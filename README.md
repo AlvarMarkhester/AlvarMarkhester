@@ -12,7 +12,7 @@
 <img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"/>
 <img width="55" src="https://user-images.githubusercontent.com/45149278/187758839-208abca4-35d3-4bb9-90d4-26df884da634.png"/>
 <img width="55" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
+<img width="55" height="55" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
 <img width="55" height="55" src="https://cdn.svgporn.com/logos/gopher.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/rust.svg"/>
 </div>
