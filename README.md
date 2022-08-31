@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Alvar
 - ⚡ Self taught fullstack developer
-- 🔭 I’m currently working on developing accounting and internal control programs with <a href="https://www.kommunresurs.se/">Kommunresurs</a> designed for businesses.
+- 🔭 I’m currently working on developing accounting and internal control programs designed for businesses, for <a href="https://www.kommunresurs.se/">Kommunresurs</a>.
 - 🌱 On my freetime I am mostly trying to master Rust & Go
 
 
