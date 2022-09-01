@@ -4,7 +4,7 @@
 - 🌱 I'm on my freetime mostly experimenting with new tech, focusing on mastering the never ending space of algorithms or learning rust & go.
 
 
-<h2>Tech I'm passionate about</h2>
+<h3>Tech I'm passionate about</h2>
 <div>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/react-query-icon.svg"/>
@@ -13,6 +13,11 @@
 <img width="55" src="https://user-images.githubusercontent.com/45149278/187758839-208abca4-35d3-4bb9-90d4-26df884da634.png"/>
 <img width="55" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
 <img width="55" height="55" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
+
+</div>
+
+<h3>Currently learning</h2>
+<div>
 <img width="55" height="55" src="https://cdn.svgporn.com/logos/gopher.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/rust.svg"/>
 </div>
