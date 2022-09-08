@@ -4,7 +4,7 @@
 - 🌱 I'm on my freetime mostly experimenting with new tech, focusing on mastering the never ending space of algorithms or learning rust & go.
 
 
-<h3>Skills</h2>
+<h3>Skills w/ knowledge of alot of libs around this stack</h2>
 <div>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/react-query-icon.svg"/>
