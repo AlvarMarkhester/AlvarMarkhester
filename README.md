@@ -18,6 +18,5 @@
 
 <h3>Currently learning</h2>
 <div>
-<img width="55" height="55" src="https://cdn.svgporn.com/logos/gopher.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/rust.svg"/>
 </div>
