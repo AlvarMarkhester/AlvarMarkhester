@@ -4,9 +4,10 @@
 - 🌱 I love learning more and strive for continuous improvement.
 
 
-<h3>Tech I like using</h2>
+<h3>I love</h2>
 <div>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
+ <img width="55" src="https://cdn.svgporn.com/logos/rust.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/react-query-icon.svg"/>
 <img width="55" src="https://user-images.githubusercontent.com/45149278/187757461-d2435586-3f71-4370-b5f1-b4dc05160898.png"/>
 <img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"/>
@@ -14,9 +15,4 @@
 <img width="55" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
 <img width="55" height="55" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
 
-</div>
-
-<h3>Currently learning</h2>
-<div>
-<img width="55" src="https://cdn.svgporn.com/logos/rust.svg"/>
 </div>
