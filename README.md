@@ -1,5 +1,5 @@
 ### Hello 👋 I'm Alvar
-- ⚡ Full-stack developer.
+- ⚡ Self-taught full-stack developer.
 - 💙 Typescript & Rust
 - 👨‍💻 Currently working full-time as a systems developer @ <a href="https://www.kommunresurs.se/">Kommunresurs</a>
 - 🧙 I love learning more and strive for continuous improvement.
