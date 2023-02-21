@@ -1,6 +1,5 @@
 ### Hello 👋 I'm Alvar
 - ⚡ Full-stack developer.
+- 👨‍💻 Full-time software engineer @ <a href="https://www.kommunresurs.se/">Kommunresurs</a>
+- 🧙 The key for continuous improvement is to learn deep concepts.
 - 💙 Typescript
-- 👨‍💻 Currently working full-time as software engineer @ <a href="https://www.kommunresurs.se/">Kommunresurs</a>
-- 🧙 I love learning more and strive for continuous improvement.
-- 🕊️	On github I share projects I have made for fun and passion. Most work I have done is not OSS. Feel free to ask me what previous experience and expertise I have.
