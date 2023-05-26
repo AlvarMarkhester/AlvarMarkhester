@@ -1,1 +1,1 @@
-- 👨‍💻 Software engineer @ <a href="https://www.kommunresurs.se/">Kommunresurs</a>
+- 👨‍💻 Lead software engineer & co-owner @ <a href="https://www.kommunresurs.se/">Kommunresurs</a>
